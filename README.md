@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaane&label=Profile%20views&color=0e75b6&style=flat" alt="eshaane" /> </p>
 
 # About Me:
-<p align="left"> <a href="https://github.com/Gam3rrXD"><img src="https://github-profile-trophy.vercel.app/?username=eshaane&theme=discord" alt="eshaane" /></a> </p>
+<p align="left"> <a href="https://github.com/eshaane"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=eshaane&theme=discord" alt="eshaane" /></a> </p>
 
 - 🤖 I’m currently working in **Stellar | Director of Information Security**
 - 🌱 I’m currently learning **DaVinci Resolve, BASH**
